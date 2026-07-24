@@ -60,10 +60,10 @@ DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
 DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
-  Random         : +63.623
-  Shortest-Len   : +9.277
-  Dijkstra-Hop   : +4.676
-  Max-SKR        : +166.552
+  Random         : -13.995
+  Shortest-Len   : +52.204
+  Dijkstra-Hop   : +47.696
+  Max-SKR        : +146.552
   PPO+GNN        : +151.590 ◄ PPO
 ——————————————————————————————————————————————————————
 
@@ -106,11 +106,11 @@ DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
 DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
-  Random         : +63.623
-  Shortest-Len   : +9.277
-  Dijkstra-Hop   : +4.676
-  Max-SKR        : +166.552
-  PPO+GNN        : +17.374 ◄ PPO
+  Random         : -5.725
+  Shortest-Len   : +52.204
+  Dijkstra-Hop   : +47.696
+  Max-SKR        : +146.552
+  PPO+GNN        : +137.374 ◄ PPO
 ——————————————————————————————————————————————————————
 
 Epoch 110/200 | R= +0.946 | w(q)=0.0000 | SKR=1.200 | Pool=0.160 | ent=0.0300 | LR=0.00037 | StepTime=0.0530s
@@ -152,11 +152,11 @@ DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
 DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
-  Random         : +63.623
-  Shortest-Len   : +9.277
-  Dijkstra-Hop   : +4.676
-  Max-SKR        : +166.552
-  PPO+GNN        : +135.117 ◄ PPO
+  Random         : +13.995
+  Shortest-Len   : +52.204
+  Dijkstra-Hop   : +47.696
+  Max-SKR        : +136.552
+  PPO+GNN        : +165.117 ◄ PPO
 ——————————————————————————————————————————————————————
 
 Epoch 160/200 | R= +1.010 | w(q)=0.0000 | SKR=1.200 | Pool=0.160 | ent=0.0300 | LR=0.00009 | StepTime=0.0487s
@@ -198,10 +198,10 @@ DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
 DEBUG: QKDRoutingEnv initialized with source='Delhi', dest='Chennai')
 DEBUG: Network nodes (first 5): ['Delhi', 'Mumbai', 'Bangalore', 'Chennai', 'Kolkata']
-  Random         : +63.623
-  Shortest-Len   : +9.277
-  Dijkstra-Hop   : +4.676
-  Max-SKR        : +166.552
+  Random         : +33.912
+  Shortest-Len   : +52.204
+  Dijkstra-Hop   : +47.696
+  Max-SKR        : +146.552
   PPO+GNN        : +152.349 ◄ PPO
 ——————————————————————————————————————————————————————
 
